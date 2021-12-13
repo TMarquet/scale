@@ -3,7 +3,7 @@
 	url = http://www.github.com/danpage/scale-sw.git
 [submodule "hw"]
 	path = hw
-	url = http://www.github.com/danpage/scale-hw.git
+	url = https://github.com/TMarquet/scale-hw.git
 [submodule "data"]
 	path = data
 	url = http://www.github.com/danpage/scale-data.git
